@@ -21,4 +21,4 @@
 
 
 
-[Exp_fig1]:/figs/maze.png "example"
+[Exp_fig1]:./figs/maze.png "example"
