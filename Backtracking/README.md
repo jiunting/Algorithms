@@ -6,9 +6,9 @@
 
 
 
-
-
-
+### Backtracking solves the problem when:
+* Traversing all the paths with knowing loops are not obvious
+* Recording all the paths 
 
 
 
